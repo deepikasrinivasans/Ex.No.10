@@ -175,10 +175,3 @@ The experiment successfully demonstrated how prompt patterns can be used to gene
 It proved that refined prompts enhance the structure, relevance, and accuracy of outputs.
 
 ---
-
-## Conclusion
-
-This experiment highlighted the role of prompt engineering in transforming LLMs into expert business assistants.
-By applying structured prompting techniques such as query decomposition, decision-making, and semantic filtering, AI models can produce high-quality reports and case studies that meet professional and academic standards.
-
----
