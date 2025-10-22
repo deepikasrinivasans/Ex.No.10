@@ -1,8 +1,8 @@
 # Ex. No. 10 – Business Reports & Case Studies using Prompt Patterns
 
-**Date: 22/10/2025**
-**Name: Deepika S**
-**Register No:** 212223230002
+## Date: 22/10/2025
+## Name: Deepika S
+## Register No: 212222230028
 
 ---
 
@@ -13,6 +13,8 @@ To develop and implement prompt-based generation of business reports and case st
 ## AI Tools Required
 
 ChatGPT or any other Large Language Model (LLM) such as Google Gemini or Microsoft Copilot.
+
+---
 
 ## Algorithm
 
@@ -35,43 +37,33 @@ ChatGPT or any other Large Language Model (LLM) such as Google Gemini or Microso
    - Semantic Filter: Maintain business tone and professionalism.
    - Tail Generation: Extend the report with recommendations.
    - Fact-Check List: Verify accuracy and numerical details.
+     <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d98dd5ca-f42e-4166-a4f4-abeea0170675" />
+
 --- 
 ## Flow Diagram – Business Prompt Workflow
-Start
-   ↓
-Choose Business Topic
-   ↓
-Design Initial Prompt
-   ↓
-Generate Draft Report (LLM)
-   ↓
-Refine Prompt → Add Structure & Tone Controls
-   ↓
-Regenerate Refined Report
-   ↓
-Evaluate & Compare Outputs
-   ↓
-Finalize Professional Version
-   ↓
-End
----
-## Test Case Scenarios
-# Test Case 1 – Business Report: AI Integration in Marketing
-# First Draft (Basic Prompt)
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/634730bf-9b19-408b-87a7-6aabd49beaf7" />
 
-Prompt:
+
+---
+
+## Test Case Scenarios
+### Test Case 1 – Business Report: AI Integration in Marketing
+### First Draft (Basic Prompt)
+
+### Prompt:
 “Write a business report on how companies use AI in marketing.”
 
-Output:
+### Output:
 Businesses are increasingly using AI for marketing automation, customer engagement, and predictive analytics. Chatbots and recommendation engines enhance user experience and boost sales.
+
 ---
 
-# Refined Prompt (Using Query Decomposition + Decision Making)
+## Refined Prompt (Using Query Decomposition + Decision Making)
 
-Prompt:
+### Prompt:
 “Create a structured business report on AI integration in marketing. Include sections: Introduction, Key AI Technologies, Business Impact, Challenges, and Future Outlook. Use a formal tone.”
 
-Output:
+### Output:
 Business Report – AI Integration in Marketing
 
 1. Introduction:
@@ -90,9 +82,9 @@ Data privacy concerns and model bias remain major obstacles.
 By 2030, AI-powered personalization will dominate marketing campaigns globally.
 ---
 
-# Final Version (With Semantic Filtering + Tail Generation)
+## Final Version (With Semantic Filtering + Tail Generation)
 
-# Comprehensive Business Report: AI in Modern Marketing – 2025
+### Comprehensive Business Report: AI in Modern Marketing – 2025
 
 Artificial Intelligence (AI) has emerged as a core enabler of digital marketing transformation.
 By analyzing customer data in real-time, AI allows hyper-personalized campaigns and data-driven decision-making.
@@ -109,48 +101,52 @@ Companies like Amazon and Netflix leverage predictive analytics for customer seg
 3. Ethical Considerations:
 Transparency, bias management, and responsible AI are critical for sustainable growth.
 
-📊 Conclusion:
+## 📊 Conclusion:
 AI is no longer an option—it’s a strategic imperative for business success in a data-driven economy.
+
 ---
 
 ## 🧠 Diagram – Report Development Cycle
-IDEA → PROMPT DESIGN → AI GENERATION → EVALUATION → PROMPT REFINEMENT → FINAL REPORT
+
+<img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/c98c8e4e-fb79-4e2a-8a90-208531b25fac" />
+
 ---
 
-# Test Case 2 – Case Study: Predictive Analytics in Retail
-# Basic Prompt
+## Test Case 2 – Case Study: Predictive Analytics in Retail
+### Basic Prompt
 
-Prompt:
+### Prompt:
 “Write a case study on how predictive analytics helps retail businesses.”
 
-Output:
+### Output:
 Retailers use predictive analytics to forecast demand, optimize inventory, and increase sales.
+
 ---
 
-# Refined Prompt (Answer Engineering + Semantic Filter)
+##  Refined Prompt (Answer Engineering + Semantic Filter)
 
-# Prompt:
+### Prompt:
 “Write a formal business case study on predictive analytics in retail. Include sections: Problem, Solution, Implementation, and Results.”
 
-# Output:
+### Output:
 Case Study – Predictive Analytics in Retail
 
-# Problem: Overstocking and supply chain inefficiencies caused revenue loss.
-# Solution: Predictive analytics models analyzed seasonal trends.
-# Implementation: The company used Python-based machine learning tools to forecast demand.
-# Results: Inventory costs reduced by 22%, and order accuracy improved by 30%.
+#### Problem: Overstocking and supply chain inefficiencies caused revenue loss.
+#### Solution: Predictive analytics models analyzed seasonal trends.
+#### Implementation: The company used Python-based machine learning tools to forecast demand.
+#### Results: Inventory costs reduced by 22%, and order accuracy improved by 30%.
 
-# 📈 Outcome:
+### 📈 Outcome:
 The use of AI-driven analytics improved decision-making and operational efficiency across stores.
 
 ---
 
-# Test Case 3 – Creative Business Writing: AI Startup Pitch
-# Prompt:
+## Test Case 3 – Creative Business Writing: AI Startup Pitch
+### Prompt:
 
 “Write a startup pitch for an AI-based business productivity tool.”
 
-# # Output:
+### Output:
 Introducing NeuroBoost, an AI productivity assistant that automates meeting notes, schedules, and email replies. Designed for hybrid teams, it saves 4 hours daily per user and integrates with Slack, Gmail, and Notion.
 
 📌 Tagline: “Work smarter. Think faster. Lead better.”
@@ -164,7 +160,7 @@ Introducing NeuroBoost, an AI productivity assistant that automates meeting note
 3. Final documents that exhibit clarity, factual accuracy, and business professionalism.
 ---
 
-### Deliverables
+## Deliverables
 
 1. First Draft (Basic prompt-generated content)
 2. Refined Version (After applying advanced prompt patterns)
